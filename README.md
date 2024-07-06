@@ -5,6 +5,7 @@
   and MongoDB/MySQL databases. My expertise also extends to real-time
   applications, particularly in sociel media and chats applications.
 </h3>
+![WhatsApp Image 2024-06-16 at 18 02 06_60181a90](https://github.com/breadan/breadan/assets/109834067/8040e76a-41f6-48cc-928e-ec9468929e1b)
 
 - 🔭 I’m currently working on [E-commerce](https://github.com/breadan/E-Com) -
 🌱 I’m currently learning **JavaScript (Node.js), TS, NextJs** - 💬 Ask me about
